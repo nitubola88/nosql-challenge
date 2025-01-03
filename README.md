@@ -39,5 +39,6 @@ The challenge is implemented using MongoDB for database operations and Python (J
   mongoimport --db uk_food --collection establishments --drop --file establishments.json
 
 ## Observations and Insights
-1.Poor Hygiene Score Establishments:A significant number of establishments (41) have the worst possible hygiene score of 20.
+1.Poor Hygiene Score Establishments:A significant number of establishments (41) have the worst possible hygiene score of 20.  
+
 2.Good Hygiene Establishments in London:33 establishments in London have a RatingValue ≥ 4, showing better hygiene standards compared to the first group.
